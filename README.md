@@ -1,2 +1,2 @@
 # lolcode-experiments
-A repository for my experiments with the LOLCODE programming language.
+A repository for some of my experiments with the [LOLCODE](https://en.wikipedia.org/wiki/LOLCODE) programming language.
